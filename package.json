@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "firebase": "^9.19.1",
+    "react-datepicker": "^4.11.0",
+    "react-router-dom": "^6.9.0",
+    "sass": "^1.60.0",
+    "swiper": "^9.2.0"
+  }
+}
